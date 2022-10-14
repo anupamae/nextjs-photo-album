@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Raleway', sans-serif;
+}
+
+.custom-img {
+  background-image: url('https://unsplash.com/photos/o1TfX4vEf2o/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY1NjM0NTM2&force=true');
+}
